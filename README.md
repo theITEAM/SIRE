@@ -16,6 +16,10 @@ The following downloads can be made for SIREv1.0:
 
 * Mac: [SIRE_v1.0_Mac](https://github.com/BioSS-EAT/SIRE/releases/download/v1.0/SIRE_v1.0_Mac)
 
+# Documentation
+
+Information about the software can be obtained from a  [paper on BioRxiv](https://www.biorxiv.org/content/10.1101/618363v3.full) or from the [SIRE manual](https://github.com/BioSS-EAT/SIRE/raw/master/SIRE_Manual_v1.0.pdf). A [website](https://bioss-eat.github.io/SIRE.html) provides screenshots of the software.
+
 # Build
 
 For anyone who wants to edit this software the following instructions must be followed:
@@ -26,5 +30,5 @@ For anyone who wants to edit this software the following instructions must be fo
 
 * This software relies of NW.js to run the graphical user interface. This can be downloaded [here](https://github.com/nwjs/nw.js) for your platform.  
 
-* SIRE can be run by copying all the files into the NW directory and clicking on "NW.exe"
+* SIRE can be run by copying all the files into the NW directory and clicking on "NW.exe".
 
