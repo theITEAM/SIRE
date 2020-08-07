@@ -1,0 +1,10 @@
+{
+  "name": "SIRE",
+  "main": "index.html",
+   "window": {
+    "toolbar": true,
+    "width": 1024,
+    "height": 642,
+	"resizable": true
+  }
+}
