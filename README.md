@@ -1,12 +1,14 @@
-# Introduction
+# Susceptibility Infectivity and Recoverability Estimation (SIRE)
+
+## Introduction
 
 In the era of rapid expansion of the human population with increasing demands on food security, effective solutions that reduce the incidence and impact of infectious diseases in plants and livestock are urgently needed. Even within a species hosts differ widely in their response to infection and therefore also in their relative contribution to the spread of infection within and across populations. Three key epidemiological host traits affect infectious disease spread: susceptibility (propensity to acquire infection), infectivity (propensity to pass on infection to others) and recoverability (propensity to recover quickly). Disease control strategies aimed at reducing disease spread may, in principle, target improvement in any one of these three traits.
 
-# Susceptibility Infectivity and Recoverability Estimation (SIRE)
+
 
 SIRE allows for simultaneous estimation of single nucleotide polymorphism (SNP) and treatment effects on these host traits (so identifying potential pleiotropic effects). SIRE implements a Bayesian algorithm which makes use of temporal data (consisting of any combination of recorded infection times, recovery times or disease status measurements) from multiple epidemics whose dynamics can be represented by the susceptible-infectious-recovered (SIR) model. 
 
-# Download
+## Download
 
 The following downloads can be made for SIREv1.0:
 
@@ -16,11 +18,11 @@ The following downloads can be made for SIREv1.0:
 
 * Mac: [SIRE_v1.0_Mac](https://github.com/BioSS-EAT/SIRE/releases/download/v1.0/SIRE_v1.0_Mac)
 
-# Documentation
+## Documentation
 
 Information about the software can be obtained from a  [paper on BioRxiv](https://www.biorxiv.org/content/10.1101/618363v3.full) or from the [SIRE manual](https://github.com/BioSS-EAT/SIRE/raw/master/SIRE_Manual_v1.0.pdf). A [website](https://bioss-eat.github.io/SIRE.html) provides screenshots of the software.
 
-# Build
+## Build
 
 For anyone who wants to edit this software the following instructions must be followed:
 
