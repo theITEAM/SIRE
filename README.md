@@ -14,7 +14,7 @@ The following files can be downloaded:
 
 * Linux: [SIRE_v1.0_linux.tar.gz](https://github.com/BioSS-EAT/SIRE/releases/download/v1.0/SIRE_v1.0_linux.tar.gz). This can then be extracted by using the terminal command “tar -zxvf SIRE_v1.0_linux.tar.gz”. The code is executed using “./SIRE”.
 
-* Mac: [SIRE_v1.0_Mac](https://github.com/BioSS-EAT/SIRE/releases/download/v1.0/SIRE_v1.0_Mac) SIRE is run by clicking on the “SIRE.app” icon.
+* Mac: [SIRE_v1.0_Mac.zip](https://github.com/BioSS-EAT/SIRE/releases/download/v1.0/SIRE_v1.0_Mac.zip) SIRE is run by clicking on the “SIRE.app” icon.
 
 ## Documentation
 
